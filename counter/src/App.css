@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  border: 2px solid rgb(134, 46, 134);
+  width: 500px;
+  height: 800px;
+  justify-content: center;
+  align-items: center;
+  margin:70px  auto;
+  border-radius: 30px;
+  border-top-width: 60px;
+  border-bottom-width: 60px;
+  }
+  .nav-links{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1{
+    font-size: 50px;
+    color: rgb(134, 46, 134);
+  }
+  h2{
+    font-size: 100px;
+  }
+  .reset{
+    padding: 18px 27px;
+    font-size: 25px;
+    color: rgb(134, 46, 134); 
+    border:3px solid;
+    border-radius: 20px;
+    background-color: rgb(226, 218, 209);
+  
+  }
+  .next-counter{
+  margin-right: 100px;
+  }
+  .prev-counter{
+  margin-left: 100px;
+  }
